@@ -22,9 +22,12 @@
 
 
 
-
 ### Project Overview
 The data project aims to provide an insights about  trend and pattern of data scientist professionals over the past few years. By analyzing various aspects of the data scientist dataset, I was able to make data-driven recommendation and gaining imperative understanding about that dataset
+
+![Screenshot (15)](https://github.com/Luphen1/Data-Scientist-Portfolio-Project-/assets/140397207/580e71fb-d6e6-4ece-9f51-4aa56fc62ff4)
+
+
 
 ### Data Sources
 Data Scientist:The primary database used for analysis is the  "ds_salaries.csv" having the following headers company_size, company location, employee residence,employment type, experience level,job title, remote ratio,salary, work year
