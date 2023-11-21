@@ -44,7 +44,6 @@ In the initial data preparation, I performed the following tasks below;
 ###  Exploration Data Analysis
 EDA involved exploring the heart_attack data to answer key questions such as
 
-### EDA 
 1. Find top five percentage salary for job title
 2. Find the average salary of  experience level and employee residence
 3. What is the average salary by company size and experience level
