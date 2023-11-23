@@ -72,7 +72,7 @@ EDA involved exploring the heart_attack data to answer key questions such as
 
 
 ### Limitation
-- Columns with header employment type,experience level and  company size context won't give a concise and analysis,I had to each of the headers a readable context to enhance analysis report and for a better understanding 
+- Column with headers employment type,experience level and  company size context won't give a concise analysis,I had to transform  the headers to make it  a readable context in which enhances analysis report for visualization 
 
 
 
