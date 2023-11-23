@@ -58,10 +58,21 @@ EDA involved exploring the heart_attack data to answer key questions such as
 9. What is the total salary by experience level and remote ratio
 
 
-###  Results/Findings
+### Results/Findings
+1. Data engineer has the highest percentage of salary in the dataset
+2. United State of America decide to have the highest average salary for each experience level across that dataset 
+3. Expert occurs to have the most average salary for experience level In each company sizes
+4. Illinois location has the highest average salary in the dataset for each company location
+5. Data scientist jobs had grown so fast across the year ,2023 has the highest  total salary earned
+6. Senior experience level of data engineer  has the most earned salary 
+7. Machine learning of employment type full time has the highest average salary
+8. Expert remote job of 100 has  the average salary 
+9. Experience senior level has the highest total salary of remote ratio of 0 and 100
 
 
-###  Limitation
+
+### Limitation
+- Columns with header employment type,experience level and  company size context won't give a concise and analysis,I had to each of the headers a readable context to enhance analysis report and for a better understanding 
 
 
-###  Recommendation
+
