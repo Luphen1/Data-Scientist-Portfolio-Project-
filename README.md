@@ -60,7 +60,7 @@ EDA involved exploring the heart_attack data to answer key questions such as
 
 ### Results/Findings
 1. Data engineer has the highest percentage of salary in the dataset
-2. United State of America decide to have the highest average salary for each experience level across that dataset 
+2. United State of America has the highest average salary for each experience level across that dataset 
 3. Expert occurs to have the most average salary for experience level In each company sizes
 4. Illinois location has the highest average salary in the dataset for each company location
 5. Data scientist jobs had grown so fast across the year ,2023 has the highest  total salary earned
