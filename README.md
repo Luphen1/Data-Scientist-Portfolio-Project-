@@ -56,3 +56,6 @@ EDA involved exploring the heart_attack data to answer key questions such as
 7. Find the average remote ratio by year and experience level
 8. Find the salary trend by year
 9. What is the total salary by experience level and remote ratio
+
+
+
