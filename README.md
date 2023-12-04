@@ -1,6 +1,6 @@
-# Data-Scientist-Portfolio-Project
+# Data-Scientists-Portfolio-Project
 
-#### Data Scientist Project
+#### Data Scientists Project
 ----------------------------------
 
 -  [Project Overviews](#Project_Overview)
@@ -23,14 +23,14 @@
 
 
 ### Project Overview
-The data project aims to provide an insight about  trend and pattern of data scientist professionals over the past few years. By analyzing various aspects of the data scientist dataset, I was able to make data-driven recommendation and gaining imperative insights about that dataset
+The data project aims to provide an insight about  trend and pattern of data scientists professionals over the past few years. By analyzing various aspects of the data scientist dataset, I was able to make data-driven recommendation and gaining imperative insights about that dataset
 
 ![Screenshot (15)](https://github.com/Luphen1/Data-Scientist-Portfolio-Project-/assets/140397207/580e71fb-d6e6-4ece-9f51-4aa56fc62ff4)
 
 
 
 ### Data Sources
-Data Scientist:The primary database used for analysis is the  "ds_salaries.csv" having the following headers company_size, company location, employee residence,employment type, experience level,job title, remote ratio,salary, work year
+Data Scientists:The primary database used for analysis is the  "ds_salaries.csv" having the following headers company_size, company location, employee residence,employment type, experience level,job title, remote ratio,salary, work year
 
 ### Tools 
 Excel - Excel is used for importing the dataset from www.kaggle.com
@@ -63,7 +63,7 @@ EDA involved exploring the heart_attack data to answer key questions such as
 2. United State of America has the highest average salary for each experience level across that dataset 
 3. Expert occurs to have the most average salary for experience level In each company sizes
 4. Illinois location has the highest average salary in the dataset for each company location
-5. Data scientist jobs had grown so fast across the year ,2023 has the highest  total salary earned
+5. Data scientists jobs had grown so fast across the year ,2023 has the highest  total salary earned
 6. Senior experience level of data engineer  has the most earned salary 
 7. Machine learning of employment type full time has the highest average salary
 8. Expert remote job of 100 has  the average salary 
