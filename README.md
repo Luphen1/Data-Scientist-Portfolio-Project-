@@ -25,8 +25,8 @@
 ### Project Overview
 The data project aims to provide an insight about  trend and pattern of data scientists professionals over the past few years. By analyzing various aspects of the data scientists dataset, I was able to make data-driven recommendation and gaining imperative insights about that dataset
 
-![Screenshot (15)](https://github.com/Luphen1/Data-Scientist-Portfolio-Project-/assets/140397207/580e71fb-d6e6-4ece-9f51-4aa56fc62ff4)
 
+![Uploading Screenshot (17).png…]()
 
 
 ### Data Sources
