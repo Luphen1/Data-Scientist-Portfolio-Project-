@@ -25,7 +25,8 @@
 ### Project Overview
 The data project aims to provide an insight about  trend and pattern of data scientists professionals over the past few years. By analyzing various aspects of the data scientists dataset, I was able to make data-driven recommendation and gaining imperative insights about that dataset
 
-![Uploading Screenshot (17).png…]()
+
+![Uploading Screenshot data scientists.png…]()
 
 
 
