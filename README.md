@@ -42,9 +42,11 @@ Visualization report are also created in using power Bi
 ###  Data Cleaning/Preparing
 In the initial data preparation, I performed the following tasks below;
 1. Data loading and inspection
-2. Handling for missing value
+2. Handling missing values
 3. Checking for duplicate values
 4. Convert each headers to  the right  data type
+5. Outlier Detection and Handling
+6. Handling Inconsistent Data and Typos
 
 ###  Exploration Data Analysis
 EDA involved exploring the heart_attack data to answer key questions such as
