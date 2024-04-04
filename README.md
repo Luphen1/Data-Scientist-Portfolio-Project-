@@ -51,15 +51,15 @@ In the initial data preparation, I performed the following tasks below;
 ###  Exploration Data Analysis
 EDA involved exploring the heart_attack data to answer key questions such as
 
-1. Find top five percentage salary for job title
-2. Find the average salary of  experience level and employee residence
-3. What is the average salary by company size and experience level
-4. Average Salary salary by company location 
-5. What is the total salary for job title and experience level
-6. What is the average salary for job title and employment type
-7. Find the average remote ratio by year and experience level
-8. Find the salary trend by year
-9. What is the total salary by experience level and remote ratio
+1. Find top five percentage salary for job title.
+2. Find the average salary of  experience level and employee residence.
+3. What was the average salary by company size and experience level?
+4. What was the  average Salary by company location? 
+5. What was the total salary for job title and experience level?
+6. What was the average salary for job title and employment type?
+7. Find the average remote ratio by year and experience level.
+8. Find the salary trend by year.
+9. What was the total salary by experience level and remote ratio?
 
 
 ### Results/Findings
@@ -76,7 +76,28 @@ EDA involved exploring the heart_attack data to answer key questions such as
 
 
 ### Limitation
-- Column with headers employment type,experience level and  company size context won't give a concise analysis,I had to transform  the headers to make it  a readable context in which enhances analysis report for visualization 
+- Column with headers employment type,experience level and  company size context won't give a concise analysis,I had to transform  the headers to make it  a readable context in which enhances analysis report for visualization
+
+
+### Recommendations
+
+1. Prioritize hiring skilled data engineers for robust analytics infrastructure.
+   
+2. Explore opportunities in the U.S. for higher average salaries across experience levels
+
+3. Invest in expertise development, especially in roles labeled as "Expert."
+
+4. Evaluate opportunities in Illinois, known for its high average salaries.
+
+5. Focus recruitment efforts on data scientist roles due to their rapid growth and high compensation.
+
+6. Recognize senior-level contributions with competitive salaries and advancement opportunities.
+
+7. Offer competitive compensation for full-time machine learning positions
+
+8. Clarify remote job criteria to avoid confusion in descriptions and compensation.
+
+9. Assess the impact of remote work on salary structures and adjust policies accordingly.
 
 
 
