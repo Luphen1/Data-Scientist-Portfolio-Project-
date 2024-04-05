@@ -75,7 +75,7 @@ Insights gleaned from the analysis include:
 5.	Data scientist jobs have seen rapid growth, with 2023 having the highest total salary earned.
 6.	Senior-level data engineers earn the highest salary.
 7.	Full-time machine learning positions offer the highest average salary.
-8.	"Expert" level remote jobs with a 100% remote ratio have the highest average salary.
+8.	Expert level remote jobs with a 100% remote ratio have the highest average salary.
 9.	Senior-level experience has the highest total salary, regardless of remote ratio.
 
 
