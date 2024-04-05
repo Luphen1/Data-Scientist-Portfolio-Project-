@@ -70,7 +70,7 @@ Insights gleaned from the analysis include:
 
 1.	Data engineers have the highest percentage of salary in the dataset.
 2.	The United States of America has the highest average salary for each experience level.
-3.	"Expert" level employees earn the highest average salary across different company sizes.
+3.	Expert level employees earn the highest average salary across different company sizes.
 4.	Illinois location has the highest average salary in the dataset for each company location.
 5.	Data scientist jobs have seen rapid growth, with 2023 having the highest total salary earned.
 6.	Senior-level data engineers earn the highest salary.
