@@ -23,7 +23,7 @@
 
 
 ### Project Overview
-The data project aims to provide an insight about  trend and pattern of data scientists professionals over the past few years. By analyzing various aspects of the data scientists dataset, I was able to make data-driven recommendation and gaining imperative insights about that dataset
+The data project aims to provide insights into the trends and patterns of data scientist professionals over the past few years. By analyzing various aspects of the data scientist dataset, I was able to make data-driven recommendations and gain imperative insights about that dataset.
 
 
 
@@ -32,72 +32,71 @@ The data project aims to provide an insight about  trend and pattern of data sci
 
 
 ### Data Sources
-Data Scientists:The primary database used for analysis is the  "ds_salaries.csv" having the following headers company_size, company location, employee residence,employment type, experience level,job title, remote ratio,salary, work year
+Data Scientists: The primary database used for analysis is the "ds_salaries.csv" with the following headers: company size, company location, employee residence, employment type, experience level, job title, remote ratio, salary, work year.
 
 ### Tools 
-Excel - Excel is used for importing the dataset from www.kaggle.com
-Power Bi - is used for data cleaning to check if there are missing values and duplicate records across  each Column   within the  spreadsheet.
-Visualization report are also created in using power Bi 
+Excel - Utilized for importing the dataset from www.kaggle.com
+Power Bi - Utilized for data cleaning to check if there were missing values and duplicate records across  each Column  within the dataset with the help of power query,
+Visualization was also created with Power Bi.
 
 ###  Data Cleaning/Preparing
-In the initial data preparation, I performed the following tasks below;
-1. Data loading and inspection
-2. Handling missing values
-3. Checking for duplicate values
-4. Convert each headers to  the right  data type
-5. Outlier Detection and Handling
-6. Handling Inconsistent Data and Typos
+In the initial data preparation, the following tasks were performed:
+
+1.	Data loading and inspection.
+2.	Handling missing values.
+3.	Checking for duplicate values.
+4.	Converting each header to the correct data type.
+5.	Outlier detection and handling.
+6.	Handling inconsistent data and typos.
+
 
 ###  Exploration Data Analysis
-EDA involved exploring the heart_attack data to answer key questions such as
+Exploratory Data Analysis (EDA) involved answering key questions such as:
 
-1. Find top five percentage salary for job title.
-2. Find the average salary of  experience level and employee residence.
-3. What was the average salary by company size and experience level?
-4. What was the  average Salary by company location? 
-5. What was the total salary for job title and experience level?
-6. What was the average salary for job title and employment type?
-7. Find the average remote ratio by year and experience level.
-8. Find the salary trend by year.
-9. What was the total salary by experience level and remote ratio?
+1.	Finding the top five percentage salaries for job titles.
+2.	Determining the average salary by experience level and employee residence.
+3.	Analyzing the average salary by company size and experience level.
+4.	Evaluating the average salary by company location.
+5.	Determining the total salary for job titles and experience levels.
+6.	Analyzing the average salary for job titles and employment types.
+7.	Finding the average remote ratio by year and experience level.
+8.	Identifying salary trends by year.
+9.	Determining the total salary by experience level and remote ratio.
+
 
 
 ### Results/Findings
-1. Data engineer has the highest percentage of salary in the dataset
-2. United State of America has the highest average salary for each experience level across that dataset 
-3. Expert occurs to have the most average salary for experience level In each company sizes
-4. Illinois location has the highest average salary in the dataset for each company location
-5. Data scientists jobs had grown so fast across the year ,2023 has the highest  total salary earned
-6. Senior experience level of data engineer  has the most earned salary 
-7. Machine learning of employment type full time has the highest average salary
-8. Expert remote job of 100 has  the average salary 
-9. Experience senior level has the highest total salary of remote ratio of 0 and 100
+Insights gleaned from the analysis include:
+
+1.	Data engineers have the highest percentage of salary in the dataset.
+2.	The United States of America has the highest average salary for each experience level.
+3.	"Expert" level employees earn the highest average salary across different company sizes.
+4.	Illinois location has the highest average salary in the dataset for each company location.
+5.	Data scientist jobs have seen rapid growth, with 2023 having the highest total salary earned.
+6.	Senior-level data engineers earn the highest salary.
+7.	Full-time machine learning positions offer the highest average salary.
+8.	"Expert" level remote jobs with a 100% remote ratio have the highest average salary.
+9.	Senior-level experience has the highest total salary, regardless of remote ratio.
 
 
 
 ### Limitation
-- Column with headers employment type,experience level and  company size context won't give a concise analysis,I had to transform  the headers to make it  a readable context in which enhances analysis report for visualization
+To enhance the analysis report for visualization, columns with headers such as employment type, experience level, and company size were transformed to provide clearer context.
 
 
 ### Recommendations
 
-1. Prioritize hiring skilled data engineers for robust analytics infrastructure.
-   
-2. Explore opportunities in the U.S. for higher average salaries across experience levels
+Based on the findings, the following recommendations were made:
 
-3. Invest in expertise development, especially in roles labeled as "Expert."
-
-4. Evaluate opportunities in Illinois, known for its high average salaries.
-
-5. Focus recruitment efforts on data scientist roles due to their rapid growth and high compensation.
-
-6. Recognize senior-level contributions with competitive salaries and advancement opportunities.
-
-7. Offer competitive compensation for full-time machine learning positions
-
-8. Clarify remote job criteria to avoid confusion in descriptions and compensation.
-
-9. Assess the impact of remote work on salary structures and adjust policies accordingly.
+1.	Prioritize hiring skilled data engineers to bolster analytics infrastructure.
+2.	Explore opportunities in the U.S. for higher average salaries across experience levels.
+3.	Invest in expertise development, particularly in roles labeled as "Expert."
+4.	Evaluate opportunities in Illinois, known for its high average salaries.
+5.	Focus recruitment efforts on data scientist roles due to their rapid growth and high compensation.
+6.	Recognize senior-level contributions with competitive salaries and advancement opportunities.
+7.	Offer competitive compensation for full-time machine learning positions.
+8.	Clarify remote job criteria to avoid confusion in descriptions and compensation.
+9.	Assess the impact of remote work on salary structures and adjust policies accordingly.
 
 
 
